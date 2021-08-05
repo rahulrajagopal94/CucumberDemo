@@ -1,0 +1,16 @@
+{
+  "address": "//*[@id='column-right']/div/a[4]",
+  "newAddressButton": "//*[@id='content']/div[2]/div[2]/a",
+  "firstName": "input-firstname",
+  "lastName": "input-lastname",
+  "addressInput": "input-address-1",
+  "city": "input-city",
+  "postcode": "input-postcode",
+  "region": "zone_id",
+  "continueButton": "//*[@id='content']/form/div/div[2]/input",
+  "verifyAddAddress": "//*[@id='account-address']/div[1]",
+  "verifyDeleteAddress": "//*[@id='account-address']/div[1]",
+  "delete": "//*[@id='content']/div[1]/table/tbody/tr[2]/td[2]/a[2]"
+}
+
+

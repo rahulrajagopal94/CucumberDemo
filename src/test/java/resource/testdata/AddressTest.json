@@ -1,0 +1,18 @@
+{
+  "TestData": [
+    {
+      "username": "gokulpvijayan@gmail.com",
+      "password": "Gokul@1234",
+      "firstName": "Steve",
+      "lastName": "M",
+      "address": "3367 Worley Avenue",
+      "city": "Eppes Fork",
+      "postcode": "23927",
+      "state": "Aberdeen",
+      "verifyAddAddress": " Your address has been successfully added",
+      "verifyDeleteAddress": "Your address has been successfully deleted",
+      "verifyLogout": "You have been logged off your account. It is now safe to leave the computer."
+
+    }
+  ]
+}
